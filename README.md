@@ -8,12 +8,12 @@
 ## 복습은 필수!
 ❌ 해결하지 못한 문제 -> 좀더 고민해보기\
 ✔️ 해결한 문제 -> 생각날때 다시 풀어보기\
-➰ 복습히 필요한 문제 -> 1주일 안에 다시 풀어보기
+➰ 복습히 필요한 문제 -> 다시 푼 횟수만큼 ➰추가
 
 ## 주제
 🔸 1주차
   - [소수&팰린드롬](https://www.acmicpc.net/problem/1747) ✔️
-  - [숨바꼭질](https://www.acmicpc.net/problem/1697) ✔️
+  - [숨바꼭질](https://www.acmicpc.net/problem/1697) ➰
   - [미로탐색](https://www.acmicpc.net/problem/2178) ✔️
   - [일곱 난쟁이](https://www.acmicpc.net/problem/2309) ✔️
   - [암호 만들기](https://www.acmicpc.net/problem/1759) ✔️
@@ -30,7 +30,7 @@
   - [상근이의 여행](https://www.acmicpc.net/problem/9372) ✔️
   - [미친로봇](https://www.acmicpc.net/problem/1405) ➰
   - [꽃길](https://www.acmicpc.net/problem/14620) ✔️
-  - [이분 그래프](https://www.acmicpc.net/problem/1707)
-  - [퍼즐](https://www.acmicpc.net/problem/1525)
+  - [이분 그래프](https://www.acmicpc.net/problem/1707) ➰
+  - [퍼즐](https://www.acmicpc.net/problem/1525) ➰
   - [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
 
