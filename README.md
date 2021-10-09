@@ -35,7 +35,7 @@
   - [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) ✔️
 
 🔹 4주차
-  - [N-Queen](https://www.acmicpc.net/problem/9663)
+  - [N-Queen](https://www.acmicpc.net/problem/9663) ➰
   - [스타트링크](https://www.acmicpc.net/problem/5014)
   - [모래성](https://www.acmicpc.net/problem/10711)
   - [테트로미노](https://www.acmicpc.net/problem/14500)
