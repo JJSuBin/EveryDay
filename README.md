@@ -38,6 +38,14 @@
 🔹 4주차
   - [N-Queen](https://www.acmicpc.net/problem/9663) ➰
   - [스타트링크](https://www.acmicpc.net/problem/5014) ✔️
-  - [모래성](https://www.acmicpc.net/problem/10711) 
+  - [모래성](https://www.acmicpc.net/problem/10711) ➰
   - [테트로미노](https://www.acmicpc.net/problem/14500) ➰
-  - [탈옥](https://www.acmicpc.net/problem/9376)
+  - [탈옥](https://www.acmicpc.net/problem/9376) ❌
+
+🔸 5주차
+  - [가르침](https://www.acmicpc.net/problem/1062)
+  - [로또](https://www.acmicpc.net/problem/6603)
+  - [상근이의 여행](https://www.acmicpc.net/problem/9372)
+  - [견우와 직녀](https://www.acmicpc.net/problem/16137)
+  - [연사자 끼워넣기](https://www.acmicpc.net/problem/14888)
+  - [색칠공부](https://www.acmicpc.net/problem/9521)
