@@ -14,7 +14,7 @@
 ## 주제
 🔸 1주차
   - [소수&팰린드롬](https://www.acmicpc.net/problem/1747) ✔️
-  - [숨바꼭질](https://www.acmicpc.net/problem/1697) ➰
+  - [숨바꼭질](https://www.acmicpc.net/problem/1697) ➰➰
   - [미로탐색](https://www.acmicpc.net/problem/2178) ✔️
   - [일곱 난쟁이](https://www.acmicpc.net/problem/2309) ✔️
   - [암호 만들기](https://www.acmicpc.net/problem/1759) ✔️
