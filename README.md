@@ -49,3 +49,13 @@
   - [견우와 직녀](https://www.acmicpc.net/problem/16137) ❌
   - [연사자 끼워넣기](https://www.acmicpc.net/problem/14888) ✔️
   - [색칠공부](https://www.acmicpc.net/problem/9521) ❌
+
+🔹 6주차
+  - [욕심쟁이 판다](https://www.acmicpc.net/problem/1937)
+  - [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)
+  - [우수 마을](https://www.acmicpc.net/problem/1949)
+  - [1,2,3 더하기](https://www.acmicpc.net/problem/9095)
+  - [경로 찾기](https://www.acmicpc.net/problem/11403)
+  - [최솟값 찾기](https://www.acmicpc.net/problem/11003)
+  - [마피아 게임](https://www.acmicpc.net/problem/10542)
+    
