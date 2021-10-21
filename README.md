@@ -46,6 +46,6 @@
   - [가르침](https://www.acmicpc.net/problem/1062) ➰
   - [로또](https://www.acmicpc.net/problem/6603) ✔️
   - [상근이의 여행](https://www.acmicpc.net/problem/9372) ✔️
-  - [견우와 직녀](https://www.acmicpc.net/problem/16137)
-  - [연사자 끼워넣기](https://www.acmicpc.net/problem/14888)
+  - [견우와 직녀](https://www.acmicpc.net/problem/16137) ❌
+  - [연사자 끼워넣기](https://www.acmicpc.net/problem/14888) ✔️
   - [색칠공부](https://www.acmicpc.net/problem/9521) ❌
