@@ -54,7 +54,7 @@
   - [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) ➰➰
   - [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) ✔️
   - [우수 마을](https://www.acmicpc.net/problem/1949)
-  - [1,2,3 더하기](https://www.acmicpc.net/problem/9095)
+  - [1,2,3 더하기](https://www.acmicpc.net/problem/9095) ✔️
   - [경로 찾기](https://www.acmicpc.net/problem/11403)
   - [최솟값 찾기](https://www.acmicpc.net/problem/11003)
   - [마피아 게임](https://www.acmicpc.net/problem/10542)
