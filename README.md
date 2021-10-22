@@ -51,8 +51,8 @@
   - [색칠공부](https://www.acmicpc.net/problem/9521) ❌
 
 🔹 6주차
-  - [욕심쟁이 판다](https://www.acmicpc.net/problem/1937)
-  - [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)
+  - [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) ➰➰
+  - [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) ✔️
   - [우수 마을](https://www.acmicpc.net/problem/1949)
   - [1,2,3 더하기](https://www.acmicpc.net/problem/9095)
   - [경로 찾기](https://www.acmicpc.net/problem/11403)
