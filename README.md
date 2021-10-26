@@ -59,3 +59,10 @@
   - [최솟값 찾기](https://www.acmicpc.net/problem/11003) ❌
   - [마피아 게임](https://www.acmicpc.net/problem/10542) ❌
     
+🔸 7주차
+  - [구슬 탈출2](https://www.acmicpc.net/problem/13460)
+  - [2048(Easy)](https://www.acmicpc.net/problem/12100)
+  - [뱀](https://www.acmicpc.net/problem/3190)
+  - [시험 감독](https://www.acmicpc.net/problem/13458)
+  - [주사위 굴리기](https://www.acmicpc.net/problem/14499)
+  - [테트로미노](https://www.acmicpc.net/problem/14500)
