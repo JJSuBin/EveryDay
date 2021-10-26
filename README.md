@@ -32,7 +32,7 @@
   - [미친로봇](https://www.acmicpc.net/problem/1405) ➰➰
   - [꽃길](https://www.acmicpc.net/problem/14620) ✔️
   - [이분 그래프](https://www.acmicpc.net/problem/1707) ➰
-  - [퍼즐](https://www.acmicpc.net/problem/1525) ➰
+  - [퍼즐](https://www.acmicpc.net/problem/1525) ➰➰
   - [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) ✔️
 
 🔹 4주차
