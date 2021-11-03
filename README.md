@@ -39,7 +39,7 @@
   - [N-Queen](https://www.acmicpc.net/problem/9663) ➰
   - [스타트링크](https://www.acmicpc.net/problem/5014) ✔️
   - [모래성](https://www.acmicpc.net/problem/10711) ➰➰
-  - [테트로미노](https://www.acmicpc.net/problem/14500) ➰
+  - [테트로미노](https://www.acmicpc.net/problem/14500) ✔️
   - [탈옥](https://www.acmicpc.net/problem/9376) ❌
 
 🔸 5주차
