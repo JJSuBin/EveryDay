@@ -60,7 +60,7 @@
   - [마피아 게임](https://www.acmicpc.net/problem/10542) ❌
     
 🔸 7주차(삼성 SW 역량테스트 기출문제)
-  - [구슬 탈출2](https://www.acmicpc.net/problem/13460)
+  - [구슬 탈출2](https://www.acmicpc.net/problem/13460) ➰
   - [2048(Easy)](https://www.acmicpc.net/problem/12100)
   - [뱀](https://www.acmicpc.net/problem/3190) ➰
   - [시험 감독](https://www.acmicpc.net/problem/13458)
